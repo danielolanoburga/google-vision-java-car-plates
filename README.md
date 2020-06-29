@@ -12,6 +12,7 @@ Este repositorio contiene el proyecto correspondiente al curso de Inteligencia A
 ![image3 1](https://user-images.githubusercontent.com/12433354/86022605-37579e00-b9f0-11ea-92f2-30df1731f727.png)
 ![image3](https://user-images.githubusercontent.com/12433354/86022607-37f03480-b9f0-11ea-9424-6080cd9cfcaf.png)
 ![image4](https://user-images.githubusercontent.com/12433354/86022609-37f03480-b9f0-11ea-9761-57ac199516d9.png)
+![image5](https://user-images.githubusercontent.com/12433354/86032263-a6d38a80-b9fc-11ea-9ecf-437d4074c37f.png)
 
 ### Development
 
