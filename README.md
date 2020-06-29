@@ -13,3 +13,26 @@ Este repositorio contiene el proyecto correspondiente al curso de Inteligencia A
 ![image3](https://user-images.githubusercontent.com/12433354/86022607-37f03480-b9f0-11ea-9424-6080cd9cfcaf.png)
 ![image4](https://user-images.githubusercontent.com/12433354/86022609-37f03480-b9f0-11ea-9761-57ac199516d9.png)
 
+### Development
+
+First Tab:
+1. CREAR PROYECTO EN GOOGLE CLOUD PLATFORM (GCP)
+```sh
+$ google-vision-java-car-plates
+```
+
+2. ACTIVAR EL API POR MEDIO DE LA CONSOLA DE GCP:
+```sh
+$ gcloud auth list
+$ gcloud config list project
+$ gcloud services enable vision.googleapis.com
+```
+
+3. CREAR CUENTA DE SERVICIO EN GCP
+```sh
+$ service-google-vision-java
+```
+4. CREAR KEY FILE Y DESCARGAR EN FORMATO JSON. CONFIGURARLO COMO VARIABLE DE ENTORNO.
+5. ACTIVAR BILLING PARA USAR API DE GOOGLE
+3. CREAR CUENTA DE SERVICIO EN GCP
+https://console.developers.google.com/billing/enable?project=XXXXXXX
