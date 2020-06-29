@@ -7,6 +7,8 @@ Este repositorio contiene el proyecto correspondiente al curso de Inteligencia A
   - Delia Quispe
   - Jordy Mamani
 
+Video explicativo: https://youtu.be/-lcmjPcmJQU
+
 ![image1](https://user-images.githubusercontent.com/12433354/86022600-36267100-b9f0-11ea-9493-d49b3193f00c.png)
 ![image2](https://user-images.githubusercontent.com/12433354/86022603-37579e00-b9f0-11ea-86e2-bd0918e4421a.png)
 ![image3 1](https://user-images.githubusercontent.com/12433354/86022605-37579e00-b9f0-11ea-92f2-30df1731f727.png)
